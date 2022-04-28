@@ -1,0 +1,25 @@
+ <request>
+  <files>
+    <file>
+      <paymentnumber>6575687</paymentnumber>
+      <filetype/>Check
+      <filename>check_1.docx</filename>
+    </file>
+    <file>
+      <paymentnumber>6745674587</paymentnumber>
+      <filetype/>Check
+      <filename>check_2.docx</filename>
+    </file>
+    <file>
+      <paymentnumber>8679696</paymentnumber>
+      <filetype/>Check
+      <filename>check_3.docx</filename>
+    </file>
+  </files>
+  <client>
+    <paymentnumber>678584</paymentnumber>
+    <status>approve</status>
+    <limit>0.00</limit>
+    <payment>100.10$</payment>
+  </client>
+</request>
